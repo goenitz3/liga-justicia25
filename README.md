@@ -3,10 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-### Actualizado desde GitHub
-Este es un mensaje creado desde Github por segunda vez :) !!!
-
-### Modificación para probar el git config --global pull.ff only
+## Estos cambios son para probar el Push desde el equipo local a cuanta en GitHub
