@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 Este es un mensaje creado desde Github por segunda vez :) !!!
+
+### Modificación para probar el git config --global pull.ff only
