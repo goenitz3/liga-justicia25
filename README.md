@@ -1,7 +1,3 @@
-# Objetivos de la repositorio
+# Realizando el truco de otro usuario de Github
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
-
-
-## Estos cambios nuevos desde GitHb
-## Estos cambios nuevos desde mi repositorio local
+Esto es una prueba para ver como aparece como si este commit lo realizo otro usuario que no soy yo.
